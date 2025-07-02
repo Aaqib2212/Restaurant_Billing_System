@@ -24,7 +24,3 @@ A structured, console-based billing system in C that enables invoice generation,
    git clone https://github.com/Aaqib2212/restaurant-billing-system.git
    cd restaurant-billing-system
 
-
-
- 
-
