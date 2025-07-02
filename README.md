@@ -10,8 +10,8 @@ A structured, console-based billing system in C that enables invoice generation,
 6. **Menu-Driven Interface**:  Simple and clear terminal interface for easy navigation.
 
 # Tech Stack
-**Language**: C  
-**Concepts Used**:  
+- **Language**: C  
+- **Concepts Used**:  
   - Structures (`struct`)  
   - File Handling (`fopen`, `fwrite`, `fread`)  
   - Console I/O  
@@ -19,5 +19,10 @@ A structured, console-based billing system in C that enables invoice generation,
   - Modular Function Design
 
  # How to run the code
+ **Clone the repository** or download the `restaurant.c` file:
+   ```bash
+   git clone https://github.com/Aaqib2212/restaurant-billing-system.git
+   cd restaurant-billing-system
+
  
 
