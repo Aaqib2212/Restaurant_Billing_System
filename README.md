@@ -24,5 +24,16 @@ A structured, console-based billing system in C that enables invoice generation,
    git clone https://github.com/Aaqib2212/restaurant-billing-system.git
    cd restaurant-billing-system
 
+# How to Compile the Program
+
+Make sure you have GCC (GNU Compiler Collection) installed.
+
+# On Linux/macOS:
+```bash
+gcc restaurant.c -o restaurant
+./restaurant
+
+
+
  
 
