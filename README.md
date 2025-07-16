@@ -6,7 +6,7 @@ A structured, console-based billing system in C that enables invoice generation,
 2. **Persistent Storage**: All invoices are saved in a binary `.dat` file for later retrieval.
 3. **Invoice Search by Customer**:  Search for previous invoices by entering the customer's name.
 4. **Bill Formatting**: Separate functions for header, body, and footer display clean and structured billing output.
-5. **Tax and Discount Calculation**:  Automatically applies 10% discount and 9% CGST + SGST on net total.
+5. **Tax and Discount Calculation**:  Automatically applies 10% discount and 5% CGST + 5%SGST on net total.
 6. **Menu-Driven Interface**:  Simple and clear terminal interface for easy navigation.
 
 # Tech Stack
@@ -33,5 +33,8 @@ gcc restaurant.c -o restaurant
 ```bash
 ./restaurant
 ```
+# Preview
+<img width="929" height="447" alt="Screenshot 2025-07-16 130845" src="https://github.com/user-attachments/assets/cc9b86ae-c611-4efd-8f95-18784377b637" />
+
 
 
