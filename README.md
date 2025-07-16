@@ -37,9 +37,9 @@ gcc restaurant.c -o restaurant
 <img width="929" height="447" alt="Screenshot 2025-07-16 130845" src="https://github.com/user-attachments/assets/cc9b86ae-c611-4efd-8f95-18784377b637" />
 
 # Contact
-Feel Free to Connect:
-Linkedin: https://www.linkedin.com/in/aaqib2212/
-Mail: aaqibbelim0@gmail.com
+Feel free to connect:
+- Linkedin: aaqib2212
+- Mail: aaqibbelim0@gmail.com
 
 
 
