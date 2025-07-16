@@ -38,7 +38,7 @@ gcc restaurant.c -o restaurant
 
 # Contact
 Feel free to connect:
-- Linkedin: aaqib2212
+- Linkedin: https://www.linkedin.com/in/aaqib2212/
 - Mail: aaqibbelim0@gmail.com
 
 
