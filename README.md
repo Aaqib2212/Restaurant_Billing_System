@@ -35,6 +35,8 @@ gcc restaurant.c -o restaurant
 ```
 # Preview
 <img width="929" height="447" alt="Screenshot 2025-07-16 130845" src="https://github.com/user-attachments/assets/cc9b86ae-c611-4efd-8f95-18784377b637" />
+# License
+This project is open-source and available under the [MIT License](LICENSE).
 
 # Contact
 Feel free to connect:
